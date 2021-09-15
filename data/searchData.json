@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "kruh",
+    "sortingOption": 2,
+    "filteringOption": 3
+  },
+  {
+    "keyword": "piscanje",
+    "sortingOption": 4,
+    "filteringOption": 2
+  },
+  {
+    "keyword": "papir",
+    "sortingOption": 6,
+    "filteringOption": 1
+  },
+  {
+    "keyword": "voda",
+    "sortingOption": 5,
+    "filteringOption": 2
+  },
+  {
+    "keyword": "lase",
+    "sortingOption": 3,
+    "filteringOption": 3
+  },
+  {
+    "keyword": "koruza",
+    "sortingOption": 7,
+    "filteringOption": 1
+  }
+]
