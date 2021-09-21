@@ -5,13 +5,13 @@
     "productNumber": 1
   },
   {
-    "categoryName": "HLAJENI IN MLEČNI IZDELKI",
-    "categoryPath": "hlajeni-in-mlecni-izdelki",
-    "productNumber": 2
-  },
-  {
     "categoryName": "MESO, MESNI IZDELKI, RIBE",
     "categoryPath": "meso-mesni-izdelki-ribe",
     "productNumber": 0
+  },
+  {
+    "categoryName": "HLAJENI IN MLEČNI IZDELKI",
+    "categoryPath": "hlajeni-in-mlecni-izdelki",
+    "productNumber": 4
   }
 ]

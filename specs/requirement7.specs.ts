@@ -1,7 +1,5 @@
 import {HomePage} from "../pages/HomePage";
 import {OnlineShoppingPage} from "../pages/OnlineShoppingPage";
-import {ProductsPage} from "../pages/ProductsPage";
-import {MyCartPage} from "../pages/MyCartPage";
 import {browser} from "protractor";
 // @ts-ignore
 import * as searchData from "../data/searchData.json";
@@ -10,8 +8,6 @@ describe('Test Requirement 7 - sort products by search with DDT', () => {
 
     let homePage: HomePage = new HomePage();
     let onlineShoppingPage: OnlineShoppingPage = new OnlineShoppingPage();
-    let productsPage: ProductsPage = new ProductsPage();
-    let myCartPage: MyCartPage = new MyCartPage();
 
     it('should to Spar online shopping', async () => {
         await browser.get('https://www.spar.si/online/welcome/');
